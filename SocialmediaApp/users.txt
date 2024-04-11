@@ -1,0 +1,22 @@
+user_id,username,gender,birthdate,post_id,content,likes,comments
+1,alice,FEMALE,08/01/1997,101,Great day at the beach!,25,10
+2,bob,MALE,08/01/1992,102,Just finished a good book.,30,15
+3,charlie,OTHER,08/01/1994,103,Excited for the weekend!,15,8
+1,alice,FEMALE,08/01/1997,104,Delicious dinner tonight.,20,12
+2,bob,MALE,08/01/1992,105,Working on a new project.,18,9
+3,charlie,OTHER,08/01/1994,106,Fun times with friends.,22,11
+4,david,MALE,08/01/2000,107,Exploring new hobbies.,12,5
+5,emma,FEMALE,08/01/1996,108,Traveling to exotic places.,35,18
+4,david,MALE,08/01/2000,109,Movie night with friends.,28,14
+5,emma,FEMALE,08/01/1996,110,Challenging myself to learn coding.,40,22
+6,frank,MALE,08/01/1987,111,Relaxing at home.,15,7
+6,frank,MALE,08/01/1987,112,Attending a live concert!,32,16
+7,grace,FEMALE,08/01/1993,113,Cooking up a storm in the kitchen.,23,10
+8,harry,MALE,08/01/1991,114,Morning run in the park.,19,8
+7,grace,FEMALE,08/01/1993,115,Discovering new music.,27,14
+8,harry,MALE,08/01/1991,116,Weekend road trip!,33,17
+9,irene,FEMALE,08/01/1995,117,Art exhibition downtown.,26,11
+10,jason,MALE,08/01/1998,118,New workout routine.,21,9
+9,irene,FEMALE,08/01/1995,119,Sunday brunch with friends.,29,13
+10,jason,MALE,08/01/1998,120,Booked tickets for a comedy show.,31,15
+
