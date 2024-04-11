@@ -48,6 +48,11 @@ public class CrackCalculator extends Application {
         // Create a Scene with the HBox as the root node
         Scene scene = new Scene(vbox, 400, 200);
 
+        calculateTimeButton.setOnAction(e -> {
+            String strength = passwordStrength();
+            estematedTimeLabel.setText("Estimated Time: " + passwordStrength());
+        });
+
         stage.setScene(scene);
         stage.show();
 
